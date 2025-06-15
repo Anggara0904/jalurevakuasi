@@ -1,0 +1,45 @@
+{
+    "type": "Feature",
+    "properties": 
+    {
+        "COLOR": "#B0068F",
+        "OBJECTID": 75422,
+        "NAMOBJ": "",
+        "FCODE": "BA030700400",
+        "REMARK": null,
+        "METADATA": "TASWIL1000020221227_DATA_BATAS_DESAKELURAHAN",
+        "SRS_ID": "SRGI 2013",
+        "KDBBPS": null,
+        "KDCBPS": null,
+        "KDCPUM": "33.07.04",
+        "KDEBPS": null,
+        "KDEPUM": "33.07.04.2003",
+        "KDPPUM": "33",
+        "LUASWH": 0.0,
+        "TIPADM": 1,
+        "WADMKC": "Brebes",
+        "WADMKD": "Salem",
+        "WADMKK": "",
+        "WADMPR": "Central Java",
+        "WIADKC": null,
+        "WIADKK": null,
+        "WIADPR": null,
+        "WIADKD": null,
+        "UUPP": "Hasil Delineasi Batas Desa 2019",
+        "LUAS": 0.21107004,
+        "SHAPE_Leng": 0.01775854912,
+        "SHAPE_Area": 1.714779e-05
+    },
+    "geometry":
+    {
+        "type": "MultiPolygon",
+        "coordinates":
+        [
+            [
+                [
+                    
+                ]
+            ]
+        ]
+    }
+}
